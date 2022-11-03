@@ -41,10 +41,16 @@ let book4 = {
     name: 'blackBeauty',
     pages: 222,
     genre: 'autobiography',
-    author: {
+    author: [
+        {
         name:'AnnaSewell',
         age: 58
-    }
+    },
+        {
+            name:'JamesSewell',
+            age: 60
+        },
+    ]
 }
 
 let book5 = {
