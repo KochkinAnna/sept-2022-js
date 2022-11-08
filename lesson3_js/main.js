@@ -24,7 +24,7 @@ else {
 // (в першу, другу, третю або четверту частину години).
 
 let time = prompt('Your veriable time: from 0 to 59?')
-if (time < 15) {
+if (time >0 && time < 15) {
     console.log('the FIRST part of an hour');
 } else if (time >=15 && time < 30) {
     console.log('the SECOND part of an hour');
@@ -81,8 +81,8 @@ switch (week) {
 //         Потрібно знайти та вивести максимальне число з цих двох.
 //         Також потрібно врахувати коли введені рівні числа.
 
-let number1 = prompt('Please enter your first number, I will show you the trick')
-let number2 = prompt('Please enter your second number')
+let number1 = +prompt('Please enter your first number, I will show you the trick')
+let number2 = +prompt('Please enter your second number')
 console.log(Math.max(number1,number2));
 document.write(Math.max(number1,number2));
 
