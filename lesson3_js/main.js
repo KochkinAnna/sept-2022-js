@@ -81,9 +81,10 @@ switch (week) {
 //         Потрібно знайти та вивести максимальне число з цих двох.
 //         Також потрібно врахувати коли введені рівні числа.
 
-let number1 = prompt('Please enter your first number, I will show you the trick');
-let number2 = prompt('Please enter your second number');
-console.log(Math.max(number1,number2))
+let number1 = prompt('Please enter your first number, I will show you the trick')
+let number2 = prompt('Please enter your second number')
+console.log(Math.max(number1,number2));
+document.write(Math.max(number1,number2));
 
 //
 //     - є змінна х, яка може прийняти будь-яке значення (рядок, число, undefined, null і тд включно). Напишіть код який,
