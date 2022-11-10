@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="ok">
+    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/lesson4_js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_js/loops.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3_js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessson1_js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1_js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessson1_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1_js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -32,22 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-js/lesson2_js&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-html/Lesson2Kochkina/card2.css",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JavaScript&quot;,
-      &quot;Flow JS&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript",
+      "Flow JS"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson2_js" />
@@ -70,7 +76,9 @@
       <workItem from="1667498396606" duration="2157000" />
       <workItem from="1667902561224" duration="1572000" />
       <workItem from="1667904235139" duration="12165000" />
-      <workItem from="1667917448732" duration="484000" />
+      <workItem from="1667917448732" duration="830000" />
+      <workItem from="1667932441734" duration="589000" />
+      <workItem from="1668081930177" duration="9954000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
@@ -121,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667916470444</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="done">
+      <created>1667917993360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667917993360</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,10 +155,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="without promt" />
-    <MESSAGE value="done" />
     <MESSAGE value="array" />
     <MESSAGE value="maybe ok" />
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
