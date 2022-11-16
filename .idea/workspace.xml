@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="fixed">
-      <change afterPath="$PROJECT_DIR$/lesson5_js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5_js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5_js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
       <workItem from="1667932441734" duration="589000" />
       <workItem from="1668081930177" duration="11814000" />
       <workItem from="1668507672281" duration="7330000" />
+      <workItem from="1668584688104" duration="5671000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
