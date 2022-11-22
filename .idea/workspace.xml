@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="fixed">
+    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="after practice 2 part done">
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les1train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les1train/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les2train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les2train/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les3train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les3train/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les4train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les4train/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les5train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les5train/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les6train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_train_myself/les6train/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson5_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5_js/main.js" afterDir="false" />
     </list>
@@ -55,6 +67,7 @@
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson2_js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\js_train_myself\les1train" />
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson2_js" />
     </key>
   </component>
@@ -76,7 +89,11 @@
       <workItem from="1667932441734" duration="589000" />
       <workItem from="1668081930177" duration="11814000" />
       <workItem from="1668507672281" duration="7330000" />
-      <workItem from="1668584688104" duration="5671000" />
+      <workItem from="1668584688104" duration="12625000" />
+      <workItem from="1668680645140" duration="10696000" />
+      <workItem from="1668878053323" duration="7127000" />
+      <workItem from="1669030857204" duration="6623000" />
+      <workItem from="1669100436704" duration="13737000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
@@ -148,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668093837408</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="after practice 2 part done">
+      <created>1668591368139</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668591368139</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +196,7 @@
     <MESSAGE value="ok" />
     <MESSAGE value="done" />
     <MESSAGE value="fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+    <MESSAGE value="after practice 2 part done" />
+    <option name="LAST_COMMIT_MESSAGE" value="after practice 2 part done" />
   </component>
 </project>

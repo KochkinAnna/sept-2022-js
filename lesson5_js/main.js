@@ -114,3 +114,53 @@ smtxt('hello')*/
 // }
 //
 // console.log(number(box));
+
+// ADDITIONAL
+//
+// Всі функції повинні бути описані стрілочним типом!!!!
+//     - створити функцію яка приймає три числа та виводить найменьше. (Без Math.min!)
+
+function numbers(a,b,c) {
+    if (a < b) {
+        console.log(a);
+    } else if (a < c) {
+        console.log(a);
+    } else if (b < c) {
+            console.log(b);
+        } else if (c < a) {
+            console.log(c);
+
+console.log(numbers(6, 3, 7));
+
+
+// // - створити функцію яка повертає найменьше число з масиву
+// /*
+// // let box = [3, 7, 9, 2, 6, 5];
+// //
+// // let number = (array) => {
+// //     let min = array[0];
+// //     for (const arrayElement of array) {
+// //         if (arrayElement < min) {
+// //             min = arrayElement;
+// //         }
+// //     }
+// //     return min;
+// // }
+// //
+// // console.log(number(box));
+//
+//
+// - створити функцію яка повертає найбільше число з масиву
+//
+// let box = [3, 7, 9, 2, 6, 5];
+//
+// let number = (array) => {
+//     let max = array[0];
+//     for (const arrayElement of array) {
+//         if (arrayElement > max) {
+//             max = arrayElement;
+//         }
+//     }
+//     return max;
+// }
+// console.log(number(box));*/
