@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="after practice 2 part done">
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les1train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les1train/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les2train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les2train/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les3train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les3train/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les4train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les4train/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les5train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les5train/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les6train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les6train/main.js" afterDir="false" />
+    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="train after">
+      <change afterPath="$PROJECT_DIR$/lesson6_js_HomeWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6_js_HomeWork/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5_js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les6train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_train_myself/les6train/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1_js_HomeWork/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1_js_HomeWork/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2_js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2_js_HomeWork/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2_js_HomeWork/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3_js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3_js_HomeWork/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3_js_HomeWork/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_js_HomeWork/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_js/loops.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_js_HomeWork/loops.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_js_HomeWork/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5_js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5_js_HomeWork/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5_js_HomeWork/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,7 @@
       <workItem from="1668680645140" duration="10696000" />
       <workItem from="1668878053323" duration="7127000" />
       <workItem from="1669030857204" duration="6623000" />
-      <workItem from="1669100436704" duration="13737000" />
+      <workItem from="1669100436704" duration="28507000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668591368139</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="train after">
+      <created>1669114649066</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669114649066</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +205,7 @@
     <MESSAGE value="done" />
     <MESSAGE value="fixed" />
     <MESSAGE value="after practice 2 part done" />
-    <option name="LAST_COMMIT_MESSAGE" value="after practice 2 part done" />
+    <MESSAGE value="train after" />
+    <option name="LAST_COMMIT_MESSAGE" value="train after" />
   </component>
 </project>
