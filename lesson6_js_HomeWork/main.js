@@ -42,16 +42,16 @@
 // let arr = stringToarray (str); ['Ревуть', 'воли', 'як', 'ясла', 'повні']
 
 // let str = 'Ревуть воли як ясла повні';
-// let arr = str.split(',');
+// let arr = str.split(' ');
 // console.log(arr);
 
 // - Є масив чисел [10,8,-7,55,987,-1011,0,1050,0].
 // За допомогою map та колбеку перетворити всі обєкти в масиві на стрінгові.
 
-// let numbers= [10,8,-7,55,987,-1011,0,1050,0]
-// numbers
-//             .map(function (numb)=> ({}));
-//             .forEach (value=> console.log(value));
+/*let numbers= [10,8,-7,55,987,-1011,0,1050,0]
+numbers
+            .map(function (numb)=> ({}));
+            .forEach (value=> console.log(value));*/
 
 // - Створити функцію sortNums (direction), яка приймає масив чисел, та сортує його від більшого до меншого, або навпаки в залежності від значення direction
 // let nums = [11,21,3];
@@ -114,8 +114,8 @@
 // }));
 
 // coursesAndDurationArray
-// .sort(function (a,b)=> (a.mouthDuration - b.mouthDuration));
-// .filter (value => value.mouthDuration === 5);
+// .sort(function (a,b)=> (a.mouthDuration - b.mouthDuration))
+// .filter (value => value.mouthDuration === 5)
 // .forEach (value=> console.log(value));
 
 
