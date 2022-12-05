@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les6train/res6train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_train_myself/les6train/res6train/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6_js_HomeWork/additional/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6_js_HomeWork/additional/main.js" afterDir="false" />
+    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 4_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 4_2/loo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 4_2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 4_2/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 4_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 4_3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional_5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures_js/les6train/res6train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures_js/les7train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures_js/les7train/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_js_HomeWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_js_HomeWork/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6_js_HomeWork/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6_js_HomeWork/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les1train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les1train/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les1train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les1train/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les2train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/additional_js/additional_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les2train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les2train/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les3train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les2train/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les3train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les3train/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les4train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les3train/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les4train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les4train/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les5train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les4train/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les5train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les5train/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les6train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les5train/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les6train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les6train/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les6train/res6train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les6train/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_train_myself/les6train/res6train/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les6train/res6train/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,29 +58,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-js/lesson6_js_HomeWork/additional",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-js/lesson4_js_HomeWork/additional 4_3&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript",
-      "Flow JS"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;,
+      &quot;Flow JS&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson4_js_HomeWork\additional 4_3" />
+      <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\js_train_myself\les7train" />
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson6_js_HomeWork\additional" />
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson2_js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\additional" />
+      <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson6_js_HomeWork" />
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\js_train_myself\les1train" />
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lesson2_js" />
     </key>
@@ -87,7 +113,11 @@
       <workItem from="1668878053323" duration="7127000" />
       <workItem from="1669030857204" duration="6623000" />
       <workItem from="1669100436704" duration="32134000" />
-      <workItem from="1669194642097" duration="5735000" />
+      <workItem from="1669194642097" duration="6469000" />
+      <workItem from="1669290264177" duration="5297000" />
+      <workItem from="1669624851109" duration="15598000" />
+      <workItem from="1669799210122" duration="12513000" />
+      <workItem from="1670233254784" duration="10406000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
@@ -194,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669140828360</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="a">
+      <created>1669200544027</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669200544027</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +258,7 @@
     <MESSAGE value="train after" />
     <MESSAGE value="almost done" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
