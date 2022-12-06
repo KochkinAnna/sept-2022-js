@@ -134,8 +134,60 @@ console.log(car.info());
 // додати в об'єкт функцію:
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 
+Car.prototype.increaseMaxSpeed = (newSpeed) => {
+}
+console.log(car.increaseMaxSpeed(400));
+
 // додати в об'єкт функцію:
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 
 // додати в об'єкт функцію:
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
+
+Car.prototype.addDriver(driver) = function (driver) {
+    return
+}
+console.log(addDriver({name: 'vasya', age: 31}));
+
+// -створити класс/функцію конструктор попелюшка з полями ім'я, вік, розмір ноги. Створити масив з 10 попелюшок.
+
+class Sinderella {
+    constructor(name, age, footSize) {
+        this.name = name;
+        this.age = age;
+        this.footSize = footSize;
+    }
+}
+
+let princess = [
+    {new Sinderella('Sinderella1', 20, 36)},
+    {new Sinderella('Sinderella2', 21, 36, 5)},
+    {new Sinderella('Sinderella3', 22, 37)},
+    {new Sinderella('Sinderella4', 23, 37, 5)},
+    {new Sinderella('Sinderella5', 24, 38)},
+    {new Sinderella('Sinderella6', 25, 38, 5)},
+    {new Sinderella('Sinderella7', 26, 39)},
+    {new Sinderella('Sinderella8', 27, 39, 5)},
+    {new Sinderella('Sinderella9', 28, 40)},
+    {new Sinderella('Sinderella10', 29, 40, 5)},
+]
+
+console.log(princess);
+
+// Сторити об'єкт класу "принц" за допомоги класу який має поля ім'я, вік, туфелька яку він знайшов.
+class Prince {
+
+    constructor(name, age, shoe) {
+        this.name = name;
+        this.age = age;
+        this.shoe = shoe;
+    }
+}
+
+let prince = new Prince('vasya', 31, 36);
+
+
+//     За допомоги циклу знайти яка попелюшка повинна бути з принцом.
+
+
+//     Додатково, знайти необхідну попелюшку за допомоги функції масиву find та відповідного колбеку
