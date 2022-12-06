@@ -159,6 +159,58 @@ car.addDriver({name: 'vasya', age: 31});
 console.log(car);
 
 
+// - (Те саме, тільки через клас)
+// Створити клас який дозволяє створювати об'єкти car, з властивостями модель, виробник, рік випуску, максимальна швидкість, об'єм двигуна. додати в об'єкт функції:
+// -- drive () - яка виводить в консоль `їдемо зі швидкістю ${максимальна швидкість} на годину`
+// -- info () - яка виводить всю інформацію про автомобіль в форматі `назва поля - значення поля`
+// -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
+// -- changeYear (newValue) - змінює рік випуску на значення newValue
+// -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
+
+class CarX {
+    constructor(model, manufacturer, year, maxspeed, engine) {
+        this.model = model;
+        this.manufacturer = manufacturer;
+        this.year = year;
+        this.maxspeed = maxspeed;
+        this.engine = engine;
+    }
+}
+
+let carX = new CarX('audiSQ7', 'AG', 2021, 300, '4.0L V8 Twin Turbo');
+console.log(carX);
+
+CarX.prototype.drive = function () {
+    return `їдемо зі швидкістю ${this.maxspeed} на годину`;
+};
+
+console.log(carX.drive());
+
+CarX.prototype.info = function () {
+    return this
+};
+carX.info();
+console.log(carX.info());
+
+CarX.prototype.increaseMaxSpeed = function (newSpeed) {
+    return this.maxspeed = this.maxspeed + newSpeed
+};
+carX.increaseMaxSpeed(100);
+console.log(carX);
+
+CarX.prototype.changeYear = function (newValue) {
+    return this.year = newValue
+}
+carX.changeYear(2022);
+console.log(carX);
+
+CarX.prototype.addDriver = function (driver) {
+    return this.addDriver = driver
+}
+carX.addDriver({name: 'vasya', age: 31});
+console.log(carX);
+
+
 // -створити класс/функцію конструктор попелюшка з полями ім'я, вік, розмір ноги. Створити масив з 10 попелюшок.
 // //
 class Sinderella {
