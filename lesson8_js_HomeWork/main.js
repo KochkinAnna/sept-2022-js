@@ -9,6 +9,7 @@ function User(id, name, surname, email, phone) {
     this.phone = phone;
 }
 
+
 let users = [];
 
 users.push(new User(9, 'vasya', 'pupkin', 'vasok@gmail.com', '+380505678123'));
@@ -144,9 +145,18 @@ console.log(car);
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 
 Car.prototype.changeYear = function (newValue) {
+    try {
+        this.year = newValue;
+    }
+    catch (e) {
+        throw new Error ('Error')
+    }
+
     return this.year = newValue
+
 }
 car.changeYear(2022);
+
 console.log(car);
 
 // додати в об'єкт функцію:

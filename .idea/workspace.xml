@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="done">
+    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="done3">
+      <change afterPath="$PROJECT_DIR$/lectures_js/les9train/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9_js_HomeWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9_js_HomeWork/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_js_HomeWork/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_js_HomeWork/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson8_js_HomeWork/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8_js_HomeWork/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,24 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-js/lectures_js/les8train",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-js/lectures_js/les8train&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript",
-      "Flow JS"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;,
+      &quot;Flow JS&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lectures_js\les8train" />
@@ -94,7 +98,11 @@
       <workItem from="1669624851109" duration="15598000" />
       <workItem from="1669799210122" duration="12513000" />
       <workItem from="1670233254784" duration="10406000" />
-      <workItem from="1670313448017" duration="14084000" />
+      <workItem from="1670313448017" duration="16887000" />
+      <workItem from="1670420694048" duration="495000" />
+      <workItem from="1670485000437" duration="356000" />
+      <workItem from="1670486312624" duration="2039000" />
+      <workItem from="1670528261976" duration="2281000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
@@ -222,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670330426404</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="done2">
+      <created>1670333385774</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670333385774</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +265,8 @@
     <MESSAGE value="almost done" />
     <MESSAGE value="a" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="done2" />
+    <MESSAGE value="done3" />
+    <option name="LAST_COMMIT_MESSAGE" value="done3" />
   </component>
 </project>

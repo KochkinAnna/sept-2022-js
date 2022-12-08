@@ -222,14 +222,14 @@ document.write(`</ul>`);
 //     {name: 'max', age: 31, status: true}
 // ];
 //
-// for (let i = 0; i < users.length; i++) {
-//     const user = users[i];
-//
-//     if (user.status)
-//     console.log(user);
-//
-//     if (!user.status)
-//     console.log(user);
+for (let i = 0; i < users.length; i++) {
+    const user = users[i];
+
+    if (user.status)
+    console.log(user);
+
+    if (!user.status)
+    console.log(user);
 //
 //     if (user.age > 30)
 //     console.log(user);
