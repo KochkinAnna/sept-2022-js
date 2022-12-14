@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="done3">
-      <change afterPath="$PROJECT_DIR$/lectures_js/les9train/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9_js_HomeWork/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9_js_HomeWork/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures_js/les9train/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4_js_HomeWork/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_js_HomeWork/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson8_js_HomeWork/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8_js_HomeWork/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures_js/les9train/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures_js/les9train/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9_js_HomeWork/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9_js_HomeWork/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-js/lectures_js/les8train&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -103,6 +101,8 @@
       <workItem from="1670485000437" duration="356000" />
       <workItem from="1670486312624" duration="2039000" />
       <workItem from="1670528261976" duration="2281000" />
+      <workItem from="1670682238041" duration="9533000" />
+      <workItem from="1671021099360" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
