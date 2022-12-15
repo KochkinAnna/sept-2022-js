@@ -20,9 +20,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
     });
 
 let url = new URL(location.href);
-console.log(url);
 let id = url.searchParams.get('id');
-console.log(id);
 
 fetch('http://jsonplaceholder.typicode.com/users/' + id)
     .then(resp => resp.json())
