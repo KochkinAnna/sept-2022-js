@@ -11,8 +11,9 @@ fetch('https://jsonplaceholder.typicode.com/users')
         mainDiv.classList.add('main');
         let titleDiv = document.createElement('div');
         titleDiv.classList.add('title');
-        // let icon = document.createElement('i');
-        // icon.classList.add('fa-solid fa-users-line');
+        let icon = document.createElement('i');
+        icon.classList.add('fa-solid','fa-users-line');
+        titleDiv.appendChild(icon);
         let h1Div = document.createElement('h1');
         h1Div.innerText = 'USERS';
         titleDiv.append(h1Div);

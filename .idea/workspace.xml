@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/lesson10_js_Homework/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10_js_Homework/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10_js_Homework/user-details.html" afterDir="false" />
+    <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/mini_project_js/image/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project_js/index_media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/image/min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -41,7 +44,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-html/Lesson2Kochkina/index.html&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-html/Lesson4(5)Kochkina/box.css&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
@@ -104,7 +107,10 @@
       <workItem from="1670528261976" duration="2281000" />
       <workItem from="1670682238041" duration="9533000" />
       <workItem from="1671021099360" duration="28319000" />
-      <workItem from="1671111603106" duration="4390000" />
+      <workItem from="1671111603106" duration="5220000" />
+      <workItem from="1671312069132" duration="13000" />
+      <workItem from="1671312157554" duration="1040000" />
+      <workItem from="1671535310229" duration="967000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
@@ -253,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671029611773</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=".">
+      <created>1671116369355</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1671116369355</updated>
+    </task>
+    <task id="LOCAL-00023" summary="...">
+      <created>1671116557055</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1671116557055</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +304,7 @@
     <MESSAGE value="done2" />
     <MESSAGE value="done3" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>

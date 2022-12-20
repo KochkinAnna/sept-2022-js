@@ -1,5 +1,5 @@
 html {
-    background-image: url(image/min.jpg);
+    background-image: url(image/bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -18,10 +18,20 @@ html {
     width: 250px;
     height: 100vm;
     box-sizing: border-box;
-    background: #7eb1d3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: #69c6d2;
     padding-left: 20px;
     margin-top: 40px;
     text-align: center;
+}
+
+i {
+    width: 60px;
+    height: 60px;
+    padding-top: 30px;
+
 }
 
 .users {
