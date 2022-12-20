@@ -1,13 +1,6 @@
 // На странице user-details.html:
 // 4 Вивести всю, без виключення, інформацію про об'єкт user на який клікнули
 
-let userDetails = document.createElement('div');
-userDetails.classList.add('userDetails');
-let title = document.createElement('h1');
-title.innerText = 'USER DETAILS:';
-userDetails.appendChild(title);
-document.body.appendChild(userDetails);
-
 let apiURL = 'https://jsonplaceholder.typicode.com/users';
 let url = new URL(location.href);
 url.searchParams.get('id');
@@ -17,9 +10,13 @@ fetch(apiURL + id)
     .then(details => {
         let {data: userData} = details;
         let divDetails = document.createElement('div');
-        let h2 = document.createElement('h2');
-        h2.innerText =
+        divDetails.classList.add('userDetails');
+        let h1 = document.createElement('h1');
+        h1.innerText =
             `${userData.id} ${userData.name}`;
+        let p = document.createElement('p');
+        p.innerText =
+            `username: ${userData.username}, e-mail: ${userData.email}`;
         let p1 = document.createElement('p');
         p1.innerText =
             `adress: ${userData.address.street}, ${userData.address.suite}, 
@@ -31,9 +28,10 @@ fetch(apiURL + id)
         let p3 = document.createElement('p');
         p3.innerText =
             `company: ${userData.company.name}, catchPhrase: ${userData.company.catchPhrase}, bs: ${userData.company.bs}`;
-        divDetails.append(h2, p1, p2, p3);
+        divDetails.append(h1, p, p1, p2, p3);
         document.body.appendChild(divDetails);
     });
+
 
 // 5 Додати кнопку "post of current user", при кліку на яку, з'являються title всіх постів поточного юзера
 // (для получения постов используйте эндпоинт https://jsonplaceholder.typicode.com/users/USER_ID/posts)
