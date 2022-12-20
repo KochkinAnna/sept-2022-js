@@ -12,7 +12,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
         let titleDiv = document.createElement('div');
         titleDiv.classList.add('title');
         let icon = document.createElement('i');
-        icon.classList.add('fa-solid','fa-users-line');
+        icon.classList.add('fa-solid', 'fa-users-line');
         titleDiv.appendChild(icon);
         let h1Div = document.createElement('h1');
         h1Div.innerText = 'USERS';
@@ -27,36 +27,17 @@ fetch('https://jsonplaceholder.typicode.com/users')
             div.classList.add('div', 'f-s', 'width', 'height');
 
             let button = document.createElement('button');
-            button.innerText = 'To see user-details';
-            button.classList.add('button','f-s', 'width', 'height');
-            // button.setAttribute('a', 'index-user-details.html');
-            // button.setAttribute('target', '_blank');
-
+            button.classList.add('button', 'f-s', 'width', 'height');
+            let a = document.createElement('a');
+            a.innerText = 'To see user-details';
+            a.href = 'index-user-details.html?id=' + user.id;
+            a.setAttribute('target', '_blank');
+            button.appendChild(a);
 // /зробити так щоб коли наводиш на кнопку вона світилася
-
-            usersDiv.append(div,button);
+            usersDiv.append(div, button);
         }
         mainDiv.append(titleDiv, usersDiv);
         document.body.appendChild(mainDiv);
     });
 
 
-
-
-
-// На странице user-details.html:
-// 4 Вивести всю, без виключення, інформацію про об'єкт user на який клікнули
-// 5 Додати кнопку "post of current user", при кліку на яку, з'являються title всіх постів поточного юзера
-// (для получения постов используйте эндпоинт https://jsonplaceholder.typicode.com/users/USER_ID/posts)
-//     6 Каждому посту додати кнопку/посилання, при кліку на яку відбувається перехід на сторінку post-details.html, котра має детальну інфу про поточний пост.
-//
-//     На странице post-details.html:
-// 7 Вивести всю, без виключення, інформацію про об'єкт post на який клікнули .
-// 8 Нижчє інформаці про пост, вивести всі коментарі поточного поста (ендпоінт  - https://jsonplaceholder.typicode.com/posts/POST_ID/comments)
-//
-// Стилизація проєкта -
-// index.html - всі блоки з user - по 2 в рядок. кнопки/аосилвння розташувати під інформацією про user.
-//     user-details.html - блок з інфою про user зверху сторінки. Кнопка нижчє, на 90% ширини сторінки, по центру.
-//     блоки з короткою іфною про post - в ряд по 5 .
-//     post-details.html - блок з інфою про пост зверху. Коментарі - по 4 в ряд.
-//     Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)
