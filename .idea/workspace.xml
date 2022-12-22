@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="...">
-      <change afterPath="$PROJECT_DIR$/mini_project_js/index-user-details-post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project_js/main-user-details-post.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project_js/main-user-details-post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_js/index_user-details-media.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/index_user-details-media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main-user-details.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details-post.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main-user-details-post.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main-user-details-post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main-user-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +107,8 @@
       <workItem from="1671111603106" duration="5220000" />
       <workItem from="1671312069132" duration="13000" />
       <workItem from="1671312157554" duration="1040000" />
-      <workItem from="1671535310229" duration="29032000" />
+      <workItem from="1671535310229" duration="31146000" />
+      <workItem from="1671746789769" duration="933000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
@@ -294,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671542687302</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="...">
+      <created>1671744561357</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1671744561357</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

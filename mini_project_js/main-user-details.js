@@ -70,7 +70,6 @@ fetch(apiURL + id)
             }
             infoButt.append(title,divDetails, button);
             document.body.append(title, infoButt);
-
         }));
 
 
