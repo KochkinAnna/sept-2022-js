@@ -1,5 +1,4 @@
 /*// Стилизація проєкта -*/
-/*// index.html - всі блоки з user - по 2 в рядок. кнопки/аосилвння розташувати під інформацією про user.*/
 /*//     user-details.html - блок з інфою про user зверху сторінки. Кнопка нижчє, на 90% ширини сторінки, по центру.*/
 /*//     блоки з короткою іфною про post - в ряд по 5 .*/
 /*//     Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)*/
@@ -12,13 +11,68 @@ html {
     background-size: cover;
 }
 
-.userDetails {
+.title {
     width: 100%;
     height: 80px;
     box-sizing: border-box;
     display: flex;
     background: #69c6d2;
-    padding-left: 120px;
-    margin-top: 40px;
     text-align: center;
+}
+
+.infoButt {
+    width: 100%;
+    height: 60%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divDetails {
+    width: 90%;
+    height: 280px;
+    background: #ffcf56;
+    box-sizing: border-box;
+    padding-left: 120px;
+    font-size: large;
+}
+
+.pad-l {
+    padding-left: 120px;
+}
+
+.marg-t {
+    margin-top: 40px;
+}
+
+.span {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    z-index:2;
+    overflow: hidden;
+}
+
+
+.menu-btn {
+    width: 90%;
+    height: 50px;
+    border: solid #165069 5px;
+    box-sizing: border-box;
+    background: #fcf1a5;
+    text-transform: uppercase;
+    font-size: 25px;
+
+}
+
+.titlePosts {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.posts {
+    text-transform: none;
 }
