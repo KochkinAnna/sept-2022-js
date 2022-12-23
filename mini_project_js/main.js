@@ -33,7 +33,6 @@ fetch('https://jsonplaceholder.typicode.com/users')
             a.href = 'index_page2.html?id=' + user.id;
             a.setAttribute('target', '_blank');
             button.appendChild(a);
-// /зробити так щоб коли наводиш на кнопку вона світилася
             usersDiv.append(div, button);
         }
         mainDiv.append(titleDiv, usersDiv);

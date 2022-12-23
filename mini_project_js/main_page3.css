@@ -1,3 +1,8 @@
+/*Стилизація проєкта -*/
+/*post-details.html - блок з інфою про пост зверху. Коментарі - по 4 в ряд.*!*/
+                                                                                                              Всі елементи котрі характеризують users, posts, comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)*/
+
+
 html {
     background-image: url(image/bg.jpg);
     background-repeat: no-repeat;
