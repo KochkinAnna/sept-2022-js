@@ -34,7 +34,6 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${parse.id}`)
                     commentsDiv.append(titleComments, h4);
                     document.body.appendChild(commentsDiv);
                 }
-
             });
     });
 
