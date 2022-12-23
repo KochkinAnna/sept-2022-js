@@ -46,14 +46,6 @@ html {
     margin-top: 40px;
 }
 
-.span {
-    width: 30px;
-    height: 30px;
-    position: relative;
-    z-index:2;
-    overflow: hidden;
-}
-
 
 .menu-btn {
     width: 90%;

@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/mini_project_js/media_page3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main-user-details-post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/index-user-details-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/index_page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/index-user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/index_page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/index_user-details-media.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/media_page2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details-post.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main_page3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main_page3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main_page2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main-user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main_page2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +115,7 @@
       <workItem from="1671312157554" duration="1040000" />
       <workItem from="1671535310229" duration="31146000" />
       <workItem from="1671746789769" duration="4243000" />
+      <workItem from="1671834670788" duration="3177000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>

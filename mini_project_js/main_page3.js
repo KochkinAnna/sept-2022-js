@@ -13,21 +13,27 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${parse.id}`)
     .then((response) => response.json())
     .then(value => {
         let infoPost = document.createElement('div');
-        infoPost.classList.add('div');
+        infoPost.classList.add('div', 'width', 'pad-l', 'marg-t');
         let h2 = document.createElement('h2');
         h2.innerText = `${value.id}. ${value.title}`;
         let h3 = document.createElement('h3');
         h3.innerText = `${value.body}`;
         infoPost.append(h2, h3);
         document.body.append(infoPost);
+
     });
 
 
 fetch(`https://jsonplaceholder.typicode.com/posts/${parse.id}/comments`)
     .then((response) => response.json())
     .then(value => {
+        let titleComments = document.createElement('div');
+        titleComments.innerText = 'comments:'
+        titleComments.classList.add('title', 'width', 'pad-l', 'marg-t');
+        document.body.appendChild(titleComments);
         for (const valueElement of value) {
             let commentsDiv = document.createElement('div');
+            commentsDiv.classList.add('comments', 'width', 'pad-l', 'marg-t');
             let h4 = document.createElement('h4');
             h4.innerText = `${valueElement.id}. ${valueElement.name}: `
             let h5 = document.createElement('h5');
@@ -35,4 +41,5 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${parse.id}/comments`)
             commentsDiv.append(h4, h5);
             document.body.appendChild(commentsDiv)
         }
+
     })

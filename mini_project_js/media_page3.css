@@ -1,0 +1,16 @@
+/*iphone 12 Pro*/
+@media screen and (min-width: 390px) and (max-width: 844px) {
+
+    .pad-l {
+        padding-left: 40px;
+    }
+    .div {
+        height: 300px;
+        padding-top: 10px;
+        padding-right: 40px;
+    }
+
+    .comments {
+        padding-right: 40px;
+    }
+}

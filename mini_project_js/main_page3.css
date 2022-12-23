@@ -1,0 +1,37 @@
+html {
+    background-image: url(image/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.div{
+    height: 30%;
+    background: #69c3d4;
+    box-sizing: border-box;
+}
+
+.title{
+    height: 10%;
+    background: #fcf0b1;
+    box-sizing: border-box;
+}
+
+.comments {
+    height: 60%;
+    box-sizing: border-box;
+}
+
+.width {
+    width: 100%;
+}
+
+.pad-l {
+    padding-left: 120px;
+}
+
+.marg-t {
+    margin-top: 40px;
+}
+

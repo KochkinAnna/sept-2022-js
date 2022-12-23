@@ -30,7 +30,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
             button.classList.add('button', 'f-s', 'width', 'height');
             let a = document.createElement('a');
             a.innerText = 'To see user-details';
-            a.href = 'index-user-details.html?id=' + user.id;
+            a.href = 'index_page2.html?id=' + user.id;
             a.setAttribute('target', '_blank');
             button.appendChild(a);
 // /зробити так щоб коли наводиш на кнопку вона світилася

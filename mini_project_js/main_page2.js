@@ -58,7 +58,7 @@ fetch(apiURL + id)
                             let a = document.createElement('a');
                             a.innerText = `${post.title}`;
                             a.classList.add('posts')
-                            a.href = 'index-user-details-post.html?post=' + JSON.stringify(post);
+                            a.href = 'index_page3.html?post=' + JSON.stringify(post);
                             a.setAttribute('target', '_blank');
                             ul.appendChild(li);
                             li.appendChild(a);
