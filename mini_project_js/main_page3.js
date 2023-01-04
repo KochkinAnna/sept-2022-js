@@ -21,18 +21,20 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${parse.id}`)
         fetch(`https://jsonplaceholder.typicode.com/posts/${parse.id}/comments`)
             .then((response) => response.json())
             .then(value => {
-
+                let allcom = document.createElement('div');
+                allcom.classList.add('allcom');
                 for (const valueElement of value) {
                     let commentsDiv = document.createElement('div');
-                    commentsDiv.classList.add('comments', 'width', 'pad-l', 'marg-t');
+                    commentsDiv.classList.add('comments', 'marg-t');
                     let titleComments = document.createElement('div');
                     titleComments.innerText = `Comment ${valueElement.id}. ${valueElement.name}: `;
-                    titleComments.classList.add('title', 'width', 'pad-l', 'marg-t');
+                    titleComments.classList.add('title');
                     document.body.appendChild(titleComments);
                     let h4 = document.createElement('h4');
                     h4.innerText = `${valueElement.body}. ${valueElement.email}`;
                     commentsDiv.append(titleComments, h4);
-                    document.body.appendChild(commentsDiv);
+                    allcom.appendChild(commentsDiv)
+                    document.body.appendChild(allcom);
                 }
             });
     });

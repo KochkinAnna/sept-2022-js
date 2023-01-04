@@ -65,6 +65,7 @@ fetch(apiURL + id)
                         }
                         nav.appendChild(ul);
                         button.appendChild(nav);
+                        button.disabled = true;
                     })
 
             }
