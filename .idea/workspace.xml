@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1731d0f3-a89b-4be7-b7c8-978a9a348458" name="Changes" comment="...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_js/main_page2.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main_page2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_js/main_page3.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main_page3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_js/main_page3.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/main_page3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_js/media_page3.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_js/media_page3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_js/additional 2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stryy Naftogaz/IdeaProjects/sept-2022-html/Lesson4(5)Kochkina/box.css&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Аня/IdeaProjects/sept-2022-js",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JavaScript&quot;,
-      &quot;Flow JS&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript",
+      "Flow JS"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Stryy Naftogaz\IdeaProjects\sept-2022-js\lectures_js\les8train" />
@@ -115,6 +112,7 @@
       <workItem from="1671888258637" duration="271000" />
       <workItem from="1671958419770" duration="2504000" />
       <workItem from="1672148414760" duration="859000" />
+      <workItem from="1673336115977" duration="11133000" />
     </task>
     <task id="LOCAL-00001" summary="without promt">
       <created>1667296220586</created>
